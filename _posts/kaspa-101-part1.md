@@ -1,3 +1,13 @@
+---
+layout: post
+title: Kaspa 101 - Part 1 
+subtitle: The block-DAG paradigm
+gh-repo: michaelsutton/michaelsutton.github.io
+gh-badge: [star, fork, follow]
+tags: [kaspa]
+comments: true
+---
+
 # [DRAFT]
 
 This is a blog series explaining the fundamentals of Kaspa in simple and short language. I will assume the least possible prior knowledge, although some fundementals in blockchain theory, specifically bitcoin, may benifit the reader.
